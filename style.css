@@ -1,0 +1,39 @@
+h1{
+    color:blue;
+    
+    }
+    
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-between
+
+}    
+
+
+.menu{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between
+
+}  
+
+body{
+background-color:#8080ff
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
